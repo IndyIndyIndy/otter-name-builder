@@ -1,0 +1,30 @@
+{
+  "name": "christianessl/otter-name-builder",
+  "type": "library",
+  "description": "Generate names for otters.",
+  "keywords": [
+    "otter",
+    "names",
+    "generator"
+  ],
+  "license": ["GPL-2.0-or-later"],
+  "homepage": "https://christianessl.at",
+  "authors": [
+    {
+      "name": "Christian Essl",
+      "role": "Developer"
+    }
+  ],
+  "version": "1.0.0",
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "ChristianEssl\\OtterNameBuilder\\": "Classes"
+    }
+  },
+  "replace": {
+
+  }
+}
