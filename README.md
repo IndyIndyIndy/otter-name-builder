@@ -1,6 +1,8 @@
 # otter-name-builder
 Generate names for otters.
 
+[![Code Climate](https://codeclimate.com/github/IndyIndyIndy/otter-name-builder.svg)](https://codeclimate.com/github/IndyIndyIndy/otter-name-builder)
+
 So I was wondering what a society composed of intelligent otters would look like. 
 What would they call themselves? What would be their names? Would they see us as enemies?
 
